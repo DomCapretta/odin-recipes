@@ -1,0 +1,1 @@
+In this project, I am going to be building a basic recipe website. The goal of the project is to practice and put into use all of the html knowledge I have learned thus far. The website will consist of a main index page with links to recipes.
